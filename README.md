@@ -1,5 +1,3 @@
-Here’s a tightened, more “paper-supplement” style README.md:
-
 # Matrix-Weighted Graph Operators
 
 Code supplement for the manuscript  
